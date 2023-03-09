@@ -121,6 +121,15 @@ function GeneratePass() {
           )}
         </div>
       </div>
+      <h2 className="text-center text-slate-700">
+        by{" "}
+        <a
+          className="transition-all duration-300 text-slate-700 hover:font-bold dark:hover:text-slate-200"
+          href="https://github.com/SanekxArcs"
+        >
+          Sanekx Arcs
+        </a>
+      </h2>
     </div>
   );
 }
